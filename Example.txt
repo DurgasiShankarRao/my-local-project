@@ -1,0 +1,10 @@
+# My Project
+
+## Description
+This project is designed to demonstrate the use of Git and GitHub. It includes instructions for setting up the project and contributing to it.
+
+## Getting Started
+To get started with this project, clone the repository using the following command:
+
+```bash
+git clone https://github.com/DurgasiShankarRao/my-local-project.git
